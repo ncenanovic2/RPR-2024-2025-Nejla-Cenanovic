@@ -4,18 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77765960-b5f3-4785-9be8-b37fb19e0fd4" name="Changes" comment="Zadatak2_LV01" />
+    <list default="true" id="33462eba-09ac-4b1f-b045-3640cc31f549" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Zadatak1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Zadatak1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$/.." value="LV01" />
-      </map>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Exception" />
+      </list>
     </option>
+  </component>
+  <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
@@ -31,18 +38,18 @@
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 2
 }]]></component>
-  <component name="ProjectId" id="2o1dlZnJF6irfIu5tVaaLQ4Lxrs" />
+  <component name="ProjectId" id="2oONOtUVx5GaWJ5bZww5tH4ZYOw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "LV01",
+    "git-widget-placeholder": "LV02",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Nejla/IdeaProjects/RPR-2024-2025-Nejla-Cenanovic/Zadatak2/src/Main.java"
   }
@@ -50,60 +57,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="77765960-b5f3-4785-9be8-b37fb19e0fd4" name="Changes" comment="" />
-      <created>1730041169207</created>
+      <changelist id="33462eba-09ac-4b1f-b045-3640cc31f549" name="Changes" comment="" />
+      <created>1730736637635</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1730041169207</updated>
+      <updated>1730736637635</updated>
     </task>
-    <task id="LOCAL-00001" summary="Zadatak2_LV01">
-      <option name="closed" value="true" />
-      <created>1730044774008</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1730044774008</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Zadatak2_LV01">
-      <option name="closed" value="true" />
-      <created>1730044843568</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1730044843568</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Zadatak2_LV01">
-      <option name="closed" value="true" />
-      <created>1730044960221</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1730044960221</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Zadatak2_LV01">
-      <option name="closed" value="true" />
-      <created>1730045000201</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1730045000201</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Zadatak2_LV01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadatak2_LV01" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
