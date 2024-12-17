@@ -1,0 +1,14 @@
+<predmeti>
+    <predmet>
+        <naziv>Diskretna matematika</naziv>
+        <ECTS>7.0</ECTS>
+    </predmet>
+    <predmet>
+        <naziv>Razvoj programskih rješenja</naziv>
+        <ECTS>5.0</ECTS>
+    </predmet>
+    <predmet>
+        <naziv>Uvod u programiranje</naziv>
+        <ECTS>6.2</ECTS>
+    </predmet>
+</predmeti>
