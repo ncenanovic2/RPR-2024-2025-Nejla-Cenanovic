@@ -21,7 +21,7 @@ public class Main {
             for (int i = 0; i < BROJ_NITI; i++) {
                 niti[i] = new Thread(() -> {
                     while (promjena.get()) {
-                        promjena.set(false); // Pretpostavimo da nije bilo promene
+                        promjena.set(false); 
                         for (int j = 0; j < kolekcija.length - 1; j++) {
                             synchronized (kolekcija) {
                                 if (kolekcija[j] > kolekcija[j + 1]) {
@@ -29,7 +29,7 @@ public class Main {
                                     int temp = kolekcija[j];
                                     kolekcija[j] = kolekcija[j + 1];
                                     kolekcija[j + 1] = temp;
-                                    promjena.set(true); // Signaliziramo da je bilo promene
+                                    promjena.set(true); 
                                 }
                             }
                         }
